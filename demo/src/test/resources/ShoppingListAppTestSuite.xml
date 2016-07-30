@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Shopping List App Test Suite" preserve-order="true">
+
+	<parameter name="apiKey" value="D86DD6B969294904817FE4B8A31652FC" />
+	<parameter name="appID" value="1" />
+	<parameter name="deviceID" value="LG_Nexus_4_E960_real" />
+
+	<test name="test1">
+		<classes>
+			<class name="com.testobject.demo.testng.tests.ShoppingListTest">
+			</class>
+		</classes>
+	</test>
+</suite>
