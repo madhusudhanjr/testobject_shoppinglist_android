@@ -1,2 +1,2 @@
 # testobject_shoppinglist_android
-Sample automation scripts using Selenium Appium Java for Shopping List App pf Test Object.
+Sample Shopping List Android app automation using Appium - Java - TestNG - Maven and exeuting on real devices using Test Object tool.
